@@ -1,0 +1,44 @@
+.ticket {
+  margin-left: 50px;
+  border: 2px solid black;
+  height: 20vh;
+  width: 6vw;
+  margin-bottom: 20px;
+  justify-content: center;
+  background-color: aqua;
+}
+
+.title {
+  font-size: 13px;
+  margin-left: 5px;
+}
+
+.card {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border: 2px solid black;
+  height: 90px;
+  width: 90px;
+  justify-content: center;
+  align-items: center;
+  font-size: 13px;
+  margin-left: 11px;
+  background-color: lightcoral;
+}
+
+button {
+  background: none;
+  border: none;
+}
+
+.count {
+  position: relative;
+  top: 20px;
+  right: 4px;
+}
+
+.title2 {
+  position: relative;
+  left: 23px;
+  bottom: 10px;
+}/*# sourceMappingURL=Ticket.css.map */
